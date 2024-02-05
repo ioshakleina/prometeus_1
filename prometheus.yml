@@ -10,4 +10,5 @@ scrape_configs:
     basic_auth:
       username: 'bob@gmail.com'
       password: 'passBob'
-      
+    scrape_interval: 7s
+    
